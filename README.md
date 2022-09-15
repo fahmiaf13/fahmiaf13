@@ -4,6 +4,8 @@
 <p align="center"><i>Introducing, My name is Fahmi Achmad Fahrudin well known as Fahmi. I’m a Bachelor of Electrical Engineering. The Speciality that i have studied in my study is Embedded system and Internet of Things. Apart from that, i have other self taught skills in web programming and graphic design</i></p>
 <h3 align="center">Connect with me:</h3>
 
+<p align="center"><a href="https://fahmiaf.vercel.app/">My Portofolio *currently under construction❌</a></p>
+
 <p align="center">
 <a href="https://twitter.com/fahmiaf13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahmiaf13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fahmi-achmad-fahrudin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahmi-achmad-fahrudin" height="30" width="40" /></a>
