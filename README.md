@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fahmi</h1>
 <h3 align="center">Front-End Developer</h3>
 
-<p align="center"><i>Introducing, My name is Fahmi Achmad Fahrudin well known as Fahmi. I’m a Bachelor of Electrical Engineering. The Speciality that i have studied in my study is Embedded system and Internet of Things. Apart from that, i have other self taught skills in web programming and graphic design</i></p>
+<p align="center"><i>self taught programmer, specialize skill in 
+front-end web developer with a desire to learn more and grow in a collaborative team. Proficient with HTML, 
+CSS and Javascript framework, with extensive knowledge of basic design.</i></p>
 <h3 align="center">Connect with me:</h3>
 
 <p align="center"><a href="https://fahmiaf.vercel.app/">My Portofolio *currently under construction❌</a></p>
