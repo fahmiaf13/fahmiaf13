@@ -9,7 +9,7 @@ CSS and Javascript framework, with extensive knowledge of basic design.</i></p>
 <p align="center"><a href="https://fahmiaf.vercel.app/">My Portofolio *currently under construction❌</a></p>
 
 <p align="center">
-<a href="https://twitter.com/fahmiaf13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahmiaf13" height="30" width="40" /></a>
+<a href="https://instagram.com/fahmiaf13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahmiaf13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fahmi-achmad-fahrudin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahmi-achmad-fahrudin" height="30" width="40" /></a>
 <a href="https://www.behance.net/fahmiaf13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="fahmiaf13" height="30" width="40" /></a>
 <a href="https://medium.com/@fahmiaf13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fahmiaf13" height="30" width="40" /></a>
