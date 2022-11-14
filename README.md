@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahmi</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Front-End Web Developer</h3>
 
 <p align="center"><i>self taught programmer, specialize skill in 
 front-end web developer with a desire to learn more and grow in a collaborative team. Proficient with HTML, 
