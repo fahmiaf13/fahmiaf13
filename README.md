@@ -2,8 +2,7 @@
 <h3 align="center">Front-End Web Developer</h3>
 
 <p align="center"><i>self taught programmer, specialize skill in 
-front-end web developer with a desire to learn more and grow in a collaborative team. Proficient with HTML, 
-CSS and Javascript framework, with extensive knowledge of basic design.</i></p>
+front-end web developer with a desire to learn more and grow in a collaborative team. Proficient with React JS and some extensive knowledge of basic design.</i></p>
 <h3 align="center">Connect with me:</h3>
 
 <p align="center"><a href="https://fahmiaf.vercel.app/">My Portofolio *currently under construction❌</a></p>
