@@ -5,7 +5,7 @@
 front-end web developer with a desire to learn more and grow in a collaborative team. Proficient with React JS and some extensive knowledge of basic design.</i></p>
 <h3 align="center">Connect with me:</h3>
 
-<!-- <p align="center"><a href="https://fahmiaf.vercel.app/">My Portofolio *currently under construction❌</a></p> -->
+<p align="center"><a href="https://fahmiaf.vercel.app">My Portofolio</a></p>
 
 <p align="center">
 <a href="https://instagram.com/fahmiaf13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahmiaf13" height="30" width="40" /></a>
