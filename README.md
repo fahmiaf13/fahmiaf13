@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahmi</h1>
 <h3 align="center">Front-End Web Developer</h3>
 
-<p align="center"><i>self taught programmer, specialize skill in 
-front-end web developer with a desire to learn more and grow in a collaborative team. Proficient with React JS and some extensive knowledge of basic design.</i></p>
+<p align="center"><i>Wer rastet, der rostet!</i></p>
 <h3 align="center">Connect with me:</h3>
 
 <p align="center"><a href="https://fahmiaf.vercel.app">My Portofolio</a></p>
@@ -22,9 +21,9 @@ front-end web developer with a desire to learn more and grow in a collaborative 
 <a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://www.typescriptlang.org/)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-<!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-</p> -->
+</p>
 
 <h3 align="center">Other Languages and Tools:</h3>
 <p align="center">
@@ -36,11 +35,13 @@ front-end web developer with a desire to learn more and grow in a collaborative 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="50" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" width="40" height="40"/> </a>
+ <a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="nuxt" width="40" height="40"/> </a>
 <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40"/> </a>
 <a href="https://recoiljs.org/" target="_blank" rel="noreferrer"><img src="https://bestofjs.org/logos/recoil.dark.svg" alt="recoiljs" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="expressjs" width="40" height="40"/> </a>
+ <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354210/prisma.svg" alt="prisma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a> 
